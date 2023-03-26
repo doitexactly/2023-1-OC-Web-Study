@@ -43,7 +43,7 @@ git remote add origin https://github.com/binary-ho/doitexactly.git 는
 
 git push -u origin main 
 push 를 이용해서 로컬 리포지토리의 내용을 리모트 리포지토리로 올릴 수 있음  
------------
+----
 git add 는 변경내용을 스테이지로 올리는 것  
 
 git commit은 스테이지에 올라온 파일을 커밋하는 것  
