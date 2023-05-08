@@ -23,4 +23,5 @@
 19. flex-direction: column;
     flex-wrap: wrap;
 20. flex-flow: column wrap;
+
 </h6>
